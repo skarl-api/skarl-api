@@ -1,7 +1,7 @@
 ### What is Skarl-api?
 Stewart is a document platform and interface execution tool
 
-![image](1.png)
+![image](images/1.png)
 
 ### What are the support platforms?
 mac pc linux
@@ -9,8 +9,8 @@ mac pc linux
 ### How to use Skarl-api
 Due to the lack of a certificate mac, it needs to be opened under security and privacy.
 
-![image](企业微信20190903181053.png)
-![image](企业微信20190903181120.png)
+![image](images/2.png)
+![image](images/3.png)
 
 ### Skarl-api usage steps
 
