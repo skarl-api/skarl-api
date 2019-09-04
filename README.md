@@ -1,6 +1,8 @@
 ### What is Skarl-api?
 Stewart is a document platform and interface execution tool
 
+![image](1.png)
+
 ### What are the support platforms?
 mac pc linux
 
