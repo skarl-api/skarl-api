@@ -5,7 +5,7 @@ Stewart is a document platform and interface execution tool
 
 ### What are the support platforms?
 
-[mac(10.14.x)](skarl-mac-0.0.1.zip "mac(10.14.x)")
+[mac](skarl-mac-0.0.1.zip "mac")
 
 [pc](skarl-win-0.0.1.zip "pc")
 
