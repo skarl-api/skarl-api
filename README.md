@@ -5,11 +5,11 @@ Stewart is a document platform and interface execution tool
 
 ### What are the support platforms?
 
-[mac](skarl-mac-0.0.1.zip "mac")
+[mac](skarl-mac.zip "mac")
 
-[pc](skarl-win-0.0.1.zip "pc")
+pc --> https://pan.baidu.com/s/1FIXdoiqXhceLa2w8P8I5zA Extraction code : 9v95
 
-[linux](skarl-linux-0.0.1.zip "linux")
+[linux](skarl-linux.zip "linux")
 
 ### How to use Skarl-api
 Due to the lack of a certificate mac, it needs to be opened under security and privacy.
