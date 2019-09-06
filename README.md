@@ -9,7 +9,7 @@ Stewart is a document platform and interface execution tool
 
 pc --> https://pan.baidu.com/s/1BTdrrJySLGgcWSf_QyISyQ Extraction code : km4u
 
-[linux](skarl-linux.zip "linux")
+linux --> https://pan.baidu.com/s/1ap2qVQk3Jz76mDyEsu6tQw Extraction code : z3kw
 
 ### How to use Skarl-api
 Due to the lack of a certificate mac, it needs to be opened under security and privacy.
