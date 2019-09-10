@@ -1,7 +1,7 @@
 ### What is Skarl-api?
 Stewart is a document platform and interface execution tool
 
-![image](images/1.png)
+<img width="70%" height="70%" src="images/1.png"/>
 
 ### What are the support platforms?
 
@@ -16,8 +16,9 @@ linux
 ### How to use Skarl-api
 Due to the lack of a certificate mac, it needs to be opened under security and privacy.
 
-![image](images/2.png)
 ![image](images/3.png)
+
+<img width="50%" height="50%" src="images/2.png"/>
 
 ### Skarl-api usage steps
 
@@ -33,5 +34,20 @@ After creating a new space, CMD+L imports SwaggerApi, and the document will be a
 
 Supported, not only support markdown but also support flow chart
 
-### Egg
+### Can it be updated automatically?
+
+Not currently available, because the developer account is missing (the account is too expensive)
+
+### What should I do if I have problems with my use?
+
+Press CMD+R to refresh
+
+### How to reward?
+
+WeChat QR code scanning reward
+
+<img width="50%" height="50%" src="images/mongey.jpg"/>
+
+### More eggs
+
 More ways to use it yourself
