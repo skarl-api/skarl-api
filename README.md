@@ -43,6 +43,12 @@ Supported, not only support markdown but also support flow chart
 
 Not currently available, because the developer account is missing (the account is too expensive)
 
+### What if ipv4 changes?
+
+Click ip to force a refresh
+
+<img width="100%" height="50%" src="images/ipv4.png"/>
+
 ### What should I do if I have problems with my use?
 
 Press CMD+R to refresh
