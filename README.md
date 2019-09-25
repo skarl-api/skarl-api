@@ -37,6 +37,16 @@ If the connection is successful but there is no workspace, select the IP icon in
 
 After creating a new space, CMD+L imports SwaggerApi, and the document will be automatically imported with the API.
 
+### Log cleanup
+
+Linux: ~/.config/skarl/log.log
+macOS: ~/Library/Logs/skarl/log.log
+Windows: %USERPROFILE%\AppData\Roaming\skarl\log.log
+
+### Configuration reset
+
+macOS: rm ~/Library/Application\ Support/skarl/config.json
+
 ### Does Skarl-api support document markdown?
 
 Supported, not only support markdown but also support flow chart
