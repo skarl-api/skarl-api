@@ -40,7 +40,9 @@ After creating a new space, CMD+L imports SwaggerApi, and the document will be a
 ### Log cleanup
 
 Linux: ~/.config/skarl/log.log
+
 macOS: ~/Library/Logs/skarl/log.log
+
 Windows: %USERPROFILE%\AppData\Roaming\skarl\log.log
 
 ### Configuration reset
