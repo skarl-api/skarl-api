@@ -33,6 +33,8 @@ CMD+P input encrypted string connection
 
 After connecting, click on the new workspace in the lower right corner.
 
+If the connection is successful but there is no workspace, select the IP icon in the lower right corner and click refresh to select the workspace, provided that the workspace has been created.
+
 After creating a new space, CMD+L imports SwaggerApi, and the document will be automatically imported with the API.
 
 ### Does Skarl-api support document markdown?
